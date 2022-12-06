@@ -285,7 +285,7 @@ const renderMintUI = () => (
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built by @${TWITTER_HANDLE} with Buildspace`}</a>
+          >{`built by @${TWITTER_HANDLE}🍍 with Buildspace`}</a>
         </div>
       </div>
     </div>
